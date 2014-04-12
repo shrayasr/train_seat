@@ -12,9 +12,4 @@ So, what should i do ?
 2. cc /name/of/program.c
 3. ./a.out
 
-
-Who Are You?
-------------
-I'm [Shrayas][blog] and I _think_ i engineer software .
-
 [blog]:http://www.shrayas-diaries.blogspot.com
